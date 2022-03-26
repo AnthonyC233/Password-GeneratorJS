@@ -1,6 +1,7 @@
 //Created variables from upperCase, lowerCase, specialCase, and numberCase.
 var generateBtn = document.querySelector("#generate");
 
+// Was too lazy to put A-Z, slid my finger across the keyboard.
 var upperCase = "QWERTYUIOPASDFGHJKLZXCVBNM";
 var lowerCase = "qwertyuiopasdfghjklzxcvbnm"
 var specialCase = "~!@#$%^&*()_-+={[}]|\:;<,>.?/";
